@@ -20,14 +20,14 @@ My long-term focus is on building **AI-driven products and agentic systems** tha
 ## 🛠 Skills
 
 ### 🔹 Core Engineering
-- Python, OOP, Async programming
+- Python, OOP
 - Automation, system design
 - REST APIs, FastAPI
 - Git, GitHub Actions
 
 ### 🔹 AI / GenAI
 - LLMs, Prompt Engineering
-- LangChain, **LangGraph**, Google ADK
+- LangChain, LangGraph, Google ADK
 - RAG systems, tool-using agents
 - Agent orchestration & workflow design
 
@@ -54,6 +54,7 @@ Some of my notable work includes:
 - ML/DL projects across NLP, Computer Vision, and Time Series
 
 ⬇️ Check the pinned repositories below ⬇️
+https://github.com/SmdZubair0
 
 ---
 
