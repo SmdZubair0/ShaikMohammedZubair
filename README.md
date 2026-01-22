@@ -54,7 +54,7 @@ Some of my notable work includes:
 - ML/DL projects across NLP, Computer Vision, and Time Series
 
 ⬇️ Check the pinned repositories below ⬇️
-https://github.com/SmdZubair0
+- https://github.com/SmdZubair0
 
 ---
 
